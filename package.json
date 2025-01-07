@@ -1,5 +1,28 @@
 {
   "dependencies": {
+    "latest": "^0.2.0",
     "pixi.js": "^8.6.6"
-  }
+  },
+  "name": "kelvin285.github.io",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "vite": "^6.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelvin285/kelvin285.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kelvin285/kelvin285.github.io/issues"
+  },
+  "homepage": "https://github.com/Kelvin285/kelvin285.github.io#readme",
+  "description": ""
 }
